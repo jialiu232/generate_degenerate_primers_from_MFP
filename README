@@ -1,0 +1,8 @@
+@jialiu
+09/27/2020
+
+Note: 
+`prepped.fungene_9.6_amoA_AOB_1205_unaligned_nucleotide_seqs.fa.primers.out` in this folder is designed based on 720 soil abundant amoA-AOB with `degenMax=4`.
+
+Summarize:
+In this folder, I will try to summarize the `prepped.....out` output file from MetaFunPrimer, and form a file of degenerate primers for amoA-AOB.
